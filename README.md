@@ -118,8 +118,6 @@ Enhancing productivity and efficiency in organizations.
 Conclusion
 This task demonstrated the complete process of machine learning model implementation, from data collection to prediction. By leveraging Python’s ML libraries and following systematic steps, we built a model capable of solving a real-world problem efficiently. The skills gained from this task can be applied across multiple industries, making it an essential part of any modern data-driven project.
 
+# OUTPUT #
 
-
-For clustering: K-Means, Hierarchical Clustering, etc.
-
-In this task, a supervised learning model was chosen.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9598ddc-e8d0-4b25-9839-8cd0a680a4ea" />
